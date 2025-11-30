@@ -1,1 +1,1 @@
-# SQLite
+# Introduction to RDMS using SQLite
